@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FSE Empire\n"
+"POT-Creation-Date: 2023-08-21 15:26+0530\n"
+"PO-Revision-Date: 2023-08-21 15:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: Risingthemes Team <support@risingthemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html_e;esc_attr_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "FSE Empire"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:59
+msgid "Getting Started with FSE Empire!"
+msgstr ""
+
+#: inc/about.php:60
+msgid ""
+"Awesome! FSE Empire has been installed and activated successfully. Now, you "
+"can start building your dream website with a wide range of highly-"
+"customizable block patterns, templates, and template parts available in this "
+"astounding theme."
+msgstr ""
+
+#: inc/about.php:66
+msgid "More Features with Empire Pro Theme"
+msgstr ""
+
+#: inc/about.php:67
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Empire Pro. With the pro theme installed, get more options like "
+"google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:68
+msgid "Buy Empire Pro"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:79
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:88
+msgid ""
+"Loved FSE Empire? Feel free to leave your feedback. Your opinion helps us "
+"reach more audiences!"
+msgstr ""
+
+#: inc/about.php:89
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php:54
+msgid "Sorry, No posts exists..."
+msgstr ""
+
+#: patterns/archive.php:65
+#: patterns/single.php:63
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:75
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:99
+#: patterns/single.php:97
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:109
+#: patterns/single.php:107
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:119
+#: patterns/single.php:117
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:17
+msgid "Think Safety Work Safely"
+msgstr ""
+
+#: patterns/banner.php:22
+msgid "Change The Construction Industry For The Better."
+msgstr ""
+
+#: patterns/banner.php:26
+msgid ""
+"Our homes are designed with functionality and livability in mind, with "
+"features like open floor plans and modern amenities."
+msgstr ""
+
+#: patterns/banner.php:31
+msgid "Get Started"
+msgstr ""
+
+#: patterns/footer.php:20
+msgid ""
+"With over 35 years of experience in construction, we partner with owners and "
+"design professionals to build high-quality projects."
+msgstr ""
+
+#: patterns/footer.php:29
+msgid "65 Allerton Street 901 N Pitt Str, USA"
+msgstr ""
+
+#: patterns/footer.php:39
+#: patterns/header.php:23
+msgid "(+099)-123-45678"
+msgstr ""
+
+#: patterns/footer.php:49
+msgid "+02 (231) 0000 11"
+msgstr ""
+
+#: patterns/footer.php:59
+#: patterns/header.php:55
+msgid "example@example.com"
+msgstr ""
+
+#: patterns/footer.php:69
+msgid "10:00 AM to 17:00 PM"
+msgstr ""
+
+#: patterns/footer.php:86
+msgid "Our Recent Posts"
+msgstr ""
+
+#: patterns/footer.php:102
+msgid "There is no posts to display"
+msgstr ""
+
+#: patterns/footer.php:110
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:119
+msgid "Engineering & Construction"
+msgstr ""
+
+#: patterns/footer.php:123
+msgid "Core Architecture"
+msgstr ""
+
+#: patterns/footer.php:127
+msgid "Infrastructure"
+msgstr ""
+
+#: patterns/footer.php:131
+msgid "Sustainability Services"
+msgstr ""
+
+#: patterns/footer.php:135
+msgid "Worldwide Provider"
+msgstr ""
+
+#: patterns/footer.php:139
+msgid "Master Planning"
+msgstr ""
+
+#: patterns/footer.php:143
+msgid "Sustainability Policy"
+msgstr ""
+
+#: patterns/footer.php:147
+msgid "Online Service"
+msgstr ""
+
+#: patterns/footer.php:151
+msgid "Employment"
+msgstr ""
+
+#: patterns/footer.php:155
+msgid "Architecture Design"
+msgstr ""
+
+#: patterns/footer.php:162
+msgid "Opening Hours"
+msgstr ""
+
+#: patterns/footer.php:171
+msgid "Monday - Friday"
+msgstr ""
+
+#: patterns/footer.php:175
+#: patterns/footer.php:185
+msgid "10:00 AM - 17:00 PM"
+msgstr ""
+
+#: patterns/footer.php:181
+msgid "Saturday"
+msgstr ""
+
+#: patterns/footer.php:191
+msgid "Sunday"
+msgstr ""
+
+#: patterns/footer.php:195
+msgid "Closed"
+msgstr ""
+
+#: patterns/footer.php:201
+msgid "Newsletter Signup"
+msgstr ""
+
+#: patterns/footer.php:205
+msgid "Stay always in touch! Subscribe to our newsletter."
+msgstr ""
+
+#: patterns/footer.php:221
+msgid "© Copyright 2023. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:225
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:225
+msgid "Rising Themes"
+msgstr ""
+
+#: patterns/footer.php:225
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:225
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:225
+msgid "WordPress"
+msgstr ""
+
+#: patterns/introduction.php:23
+msgid "Why Our Choice"
+msgstr ""
+
+#: patterns/introduction.php:28
+msgid "Why We Are Best Construction Company in The World"
+msgstr ""
+
+#: patterns/introduction.php:33
+msgid ""
+"We began FSE Empire with one focus: to build a company that can compete with "
+"large construction firms while operating with the flexibility and customer-"
+"focus of a small, family-run business. We call it small business values with "
+"a big business approach."
+msgstr ""
+
+#: patterns/introduction.php:37
+msgid ""
+"It is a long established fact that a reader will be distracted by the "
+"readable content of a page when looking at its layout."
+msgstr ""
+
+#: patterns/introduction.php:49
+#: patterns/services.php:37
+msgid "Building Construction"
+msgstr ""
+
+#: patterns/introduction.php:63
+msgid "Design Consultation"
+msgstr ""
+
+#: patterns/introduction.php:79
+msgid "Project Management"
+msgstr ""
+
+#: patterns/introduction.php:93
+msgid "Material Procurement"
+msgstr ""
+
+#: patterns/introduction.php:102
+msgid "About Us"
+msgstr ""
+
+#: patterns/latest-news.php:13
+msgid "RECENT NEWS"
+msgstr ""
+
+#: patterns/latest-news.php:21
+msgid "Our Latest Case Detail News"
+msgstr ""
+
+#: patterns/latest-news.php:52
+msgid "There is no post found"
+msgstr ""
+
+#: patterns/process.php:15
+msgid "Stages Of The FSE Empire Process"
+msgstr ""
+
+#: patterns/process.php:21
+msgid ""
+"Stages Of The FSE Empire Building Design And Construction Process — Step By "
+"Step"
+msgstr ""
+
+#: patterns/process.php:30
+msgid "01"
+msgstr ""
+
+#: patterns/process.php:36
+msgid "Planning a successful build"
+msgstr ""
+
+#: patterns/process.php:40
+#: patterns/process.php:58
+#: patterns/process.php:76
+#: patterns/process.php:94
+msgid "Magna reprehenderit tempor do elit officia fugiat ullamco aute."
+msgstr ""
+
+#: patterns/process.php:48
+msgid "02"
+msgstr ""
+
+#: patterns/process.php:54
+msgid "Get Your Design Right"
+msgstr ""
+
+#: patterns/process.php:66
+msgid "03"
+msgstr ""
+
+#: patterns/process.php:72
+msgid "Get a building consent"
+msgstr ""
+
+#: patterns/process.php:84
+msgid "04"
+msgstr ""
+
+#: patterns/process.php:90
+msgid "Complete your project"
+msgstr ""
+
+#: patterns/services.php:15
+msgid "Quality Service Opportunity"
+msgstr ""
+
+#: patterns/services.php:21
+msgid "High Quality Construction Services For Residentials & Industries!"
+msgstr ""
+
+#: patterns/services.php:41
+#: patterns/services.php:63
+#: patterns/services.php:85
+#: patterns/services.php:109
+#: patterns/services.php:131
+#: patterns/services.php:153
+msgid ""
+"The are variations of passages of abe, but majority have suffered incididunt "
+"dolore magna aliqua."
+msgstr ""
+
+#: patterns/services.php:59
+msgid "Building Renovation"
+msgstr ""
+
+#: patterns/services.php:81
+msgid "Building Maintenance"
+msgstr ""
+
+#: patterns/services.php:105
+msgid "Architecture & Design"
+msgstr ""
+
+#: patterns/services.php:127
+msgid "Plan Certification"
+msgstr ""
+
+#: patterns/services.php:149
+msgid "Roof Renovation"
+msgstr ""
